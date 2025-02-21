@@ -31,7 +31,7 @@ h1 {
 .clock span{
     position: relative;
     top:-10%;
-    margin-left:23px;
+    margin:23px;
     font-size: 20px;
     font-weight:700;
     color:whitesmoke;
