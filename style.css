@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Arial, sans-serif;
+}
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    background:url("alexandru-vicol-D9FQYwAclwQ-unsplash.jpg")no-repeat;
+    background-size:cover;
+}
+.clock{
+    width:100%;
+    max-width:420px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    box-shadow: 0px 0px 10px #fff;
+    height:24vh;
+    border-radius:22px;
+    padding:20px;
+}
+h1 {
+    font-size: 3.5rem;
+    font-weight: 1000;
+    color:white;
+}
+.clock span{
+    position: relative;
+    top:-10%;
+    margin-left:5px;
+    font-size: 20px;
+    font-weight:700;
+    color:whitesmoke;
+}
