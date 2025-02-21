@@ -13,7 +13,7 @@ body{
     background-size:cover;
 }
 .clock{
-    margin-top:-15%;
+    margin-top:-5%;
     width:100%;
     max-width:420px;
     display:flex;
